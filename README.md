@@ -1,4 +1,4 @@
-## Image Classification and Object Localization hhhhh
+## Image Classification and Object Localization 
 
 In this repsitory, we'll build a CNN from scratch to:
 
