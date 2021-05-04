@@ -1,6 +1,6 @@
 ## Image Classification and Object Localization 
 
-In this repsitory, we'll build a CNN from scratch to:rrrrrrrrrrrrrrrrrrr
+In this repsitory, we'll build a CNN from scratch to:
 
 classify the main subject in an image
 localize it by drawing bounding boxes around it.
