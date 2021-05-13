@@ -20,5 +20,5 @@ The results:
 ![image](https://user-images.githubusercontent.com/64538407/113101782-cf93e500-9205-11eb-9741-39c2b76f523c.png)
 
 
-![image](https://user-images.githubusercontent.com/64538407/113101803-d6225c80-9205-11eb-9119-243507ee2ddb.png)ttttt
+![image](https://user-images.githubusercontent.com/64538407/113101803-d6225c80-9205-11eb-9119-243507ee2ddb.png)
 
